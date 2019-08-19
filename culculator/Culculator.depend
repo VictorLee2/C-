@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1560771645 source:c:\users\20615\documents\data struct\culculator\calculate.c
+	<stdio.h>
+
+1560776528 source:c:\users\20615\documents\data struct\culculator\polan.c
+	<stdio.h>
+
+1560776974 source:c:\users\20615\documents\data struct\culculator\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"calculate.h"
+	"polan.h"
+
+1560771283 c:\users\20615\documents\data struct\culculator\calculate.h
+
+1560776533 c:\users\20615\documents\data struct\culculator\polan.h
+
