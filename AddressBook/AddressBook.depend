@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566042830 source:c:\users\20615\documents\data struct\addressbook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
