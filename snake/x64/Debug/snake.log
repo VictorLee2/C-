@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\20615\source\repos\snake\main.cpp(239): warning C4715:  “GameOver”: 不是所有的控件路径都返回值
+  snake.vcxproj -> C:\Users\20615\source\repos\snake\x64\Debug\snake.exe
